@@ -1,0 +1,6 @@
+order_id,customer_id,amount,status
+1,100,25.50,completed
+2,100,40.00,completed
+3,101,15.25,cancelled
+4,102,99.99,completed
+5,101,30.00,completed

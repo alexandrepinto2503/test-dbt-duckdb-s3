@@ -1,0 +1,9 @@
+name: test_dbt_duckdb_s3
+version: "1.0.0"
+profile: test_dbt_duckdb_s3
+
+model-paths: ["models"]
+
+seeds:
+  test_dbt_duckdb_s3:
+    +enabled: false

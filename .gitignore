@@ -1,0 +1,12 @@
+# dbt-generated artifacts
+/target/
+/dbt_packages/
+/logs/
+/output/
+
+# Local DuckDB database files
+*.duckdb
+*.duckdb.wal
+# macOS / dbt user id
+.DS_Store
+.user.yml
